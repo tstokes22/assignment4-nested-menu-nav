@@ -1,0 +1,8 @@
+.subject-title {
+    transition: color 0.18s, font-weight 0.18s;
+}
+.subject-title:hover {
+    cursor: pointer;
+    color: #2d6cdf;
+    font-weight: 700;
+} 
